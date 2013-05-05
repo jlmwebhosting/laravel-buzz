@@ -1,4 +1,4 @@
-laravel-buzz
+Laravel Buzz Bundle
 ============
 
-Laravel Bundel that wraps the Buzz - PHP's lightweight HTTP client
+A Laravel Bundel that wraps the [Buzz - PHP's lightweight HTTP client](https://github.com/kriswallsmith/Buzz).
